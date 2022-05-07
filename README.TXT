@@ -1,2 +1,2 @@
-Protin Level Overlap Graph Assembler (PLOGA)
+Peptide Level Overlap Graph Assembler (PLOGA)
 
